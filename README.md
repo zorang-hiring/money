@@ -34,3 +34,7 @@ will return:**
 #### Note: 
 
 1 Eur has 100 cents.
+
+## Run Tests
+
+```vendor/bin/phpunit```
